@@ -97,9 +97,6 @@ function love.keypressed(key)
       sounds.jump:play()
     end
   end
-  if key == 'r' then
-    loadMap('level2')
-  end
 end
 
 function spawnPlatform(x, y, width, height)
