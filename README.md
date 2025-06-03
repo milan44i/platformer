@@ -2,7 +2,7 @@
 
 A 2D platformer game built with LÖVE (Love2D), featuring multiple levels, animated characters, enemies, and a persistent game state system.
 
-![LÖVE Platformer Game](sprites/background.png)
+https://github.com/user-attachments/assets/e1233a4a-da17-4497-8ecf-497cdb451ac2
 
 ## Table of Contents
 
